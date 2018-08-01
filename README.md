@@ -30,7 +30,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <h2 id="project">The Project  -  프로젝트</h2>
 
-<h3>Requirements:</h3>
+<strong>Requirements:</strong>
 <p>
 	<ul>
 		<li>Python 3.6.1 or Higher</li>
@@ -45,8 +45,11 @@ community, it changes human interaction. For this project, I will be using Pytho
 <strong>Follow steps below:</strong>
 <ol>
 	<li>Create a twitter developers account (<a href="https://developer.twitter.com/">LINK</a>), From that account your would need 4 things (consumer_key, consumer_secret, access_token and your access_secret)</li>
-	<li>Using the file #Download_twitter_Api.py# insert the credentials and you can download current tweets using keywords such us depression, anxiety or sadness. When data sets are ready you may proceed on the preprocessing stage. </li>
-	<li>This stage will go through your data sets and the given dictionary. The dictionary contain words with their corresponding polarity, which is essential to calcualting the sentiment of each tweet, each word will be seperated, tokenized and given its polarity. Every tweet will consist of the summation of all polarity of each word and devided by number of words in that tweet.</li>
+	<li>Using the file "Download_twitter_Api.py" insert the credentials and you can download current tweets using keywords such us depression, anxiety or sadness. When data sets are ready you may proceed on the preprocessing stage. </li>
+	<li>Run "preprocessor.py", This stage will go through your data sets and the given dictionary. The dictionary contain words with their corresponding polarity, which is essential to calcualting the sentiment of each tweet, each word will be seperated, tokenized and given its polarity. Every tweet will consist of the summation of all polarity of each word and devided by number of words in that tweet.</li>
+	<li>Once preprocess is done. You can find the file in the directory "processed_data/output.xlsx". Opening it you will find that the ID (tweet) and Sentiment of each tweet is seperated into 2 columns. With this output you now have a twitter data set and its corresponding sentiment filtered by depress keywords. (Positive, Neutral and Negative).</li>
+	<li>Now for training and Predicting. Make sure all files are located in proper folders, Run "depression_sentiment_analysis.py". The code will run through the output.xlsx file and at the same time recover the tweet corresponding to the id of each sentiment. using this we use the original data and feed them to our classifiers. When everything is done you should have all the AUC of each classifier listed in the console.</li>
+	<li>But wait, There's more. TO BE CONTINUED</li>
 </ol>
 
 
@@ -54,3 +57,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 
 <h2 id="reference">Reference  -  참고</h2>
+
+<ul>
+	<li>https://www.researchgate.net/publication/318136574_Extracting_Depression_Symptoms_from_Social_Networks_and_Web_Blogs_via_Text_Mining</li>
+</ul>
