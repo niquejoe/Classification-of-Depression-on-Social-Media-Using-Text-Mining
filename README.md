@@ -1,4 +1,4 @@
-<center><h2>Depression Analysis on Social Media Using Text Mining</h2></center>
+<center><h2>Classification of Depression on Social Media Using Text Mining</h2></center>
 
 <h4><a href="#about">About me</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">Reference</a></h4>
 
@@ -35,9 +35,17 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<ul>
 		<li>Python 3.6.1 or Higher</li>
 		<li>Twitter developer account</li>
-		
+		<li>A bunch of modules</li>
+		<li>and A whole lot of patience</li>
 	</ul>
 </p>
+
+<p>The aim of the project is to predict early signs of depression through <strong>Social Media</strong> text mining. Below are the steps to run the python codes using the data sets uploaded in the repositories or you can download your own.</p>
+
+<strong>Follow steps below:</strong>
+<ol>
+	<li>Create a twitter developers account (<a href="https://developer.twitter.com/">LINK</a>), From that account your would need 4 things (consumer_key, consumer_secret, access_token and your access_secret)</li>
+</ol>
 
 
 
