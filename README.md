@@ -22,13 +22,13 @@
 </p>
 
 
-<h2 id="introduction">Introduction</h2>
+<h2 id="introduction">Introduction  -  소개</h2>
 
 <p>Mental illness has been prevalent in the world, depression is one of the most common psychological problem i know and i would like to help as much as i can. Being a fan of Anthony Bourdain and Robin Williams, It has propel me to explore in this study. With the use of the Large amount of data tweets and Facebook post online i can use machine learning to data mine it and be able to produce a meaningful and useful outcome.</p><p>Social media generates countless data every day because of millions of active users share and communicate in entire
 community, it changes human interaction. For this project, I will be using Python and various modules and libraries.</p>
 
 
-<h2 id="project">The Project</h2>
+<h2 id="project">The Project  -  프로젝트</h2>
 
 <h3>Requirements:</h3>
 <p>
@@ -51,4 +51,4 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 
 
-<h2 id="reference">Reference</h2>
+<h2 id="reference">Reference  -  참고</h2>
