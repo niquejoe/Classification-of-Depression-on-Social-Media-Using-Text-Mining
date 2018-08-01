@@ -30,5 +30,14 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <h2 id="project">The Project</h2>
 
+<h3>Requirements:</h3>
+<p>
+	<p><h5>Python 3.6.1</h5></p>
+	<p><h5>Twitter developer account</h5></p>
+</p>
+
+
+
+
 
 <h2 id="reference">Reference</h2>
