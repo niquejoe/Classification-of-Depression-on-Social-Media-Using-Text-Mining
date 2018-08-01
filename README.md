@@ -1,4 +1,5 @@
-<center><h2>Classification of Depression on Social Media Using Text Mining</h2></center>
+<center><h1>Classification of Depression on Social Media 
+	<br>Using Text Mining</h1></center>
 
 <h4><a href="#about">About me</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">Reference</a></h4>
 
