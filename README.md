@@ -17,6 +17,8 @@
 			<p><u>School:</u></strong> West Visayas State University</p>
 		</p>
 	</p>
+	<p><strong>Mentor:</strong> Dr. Bobby Gerardo</p>
+	<p><strong>Motto:</strong> I work hard so my dog can have a better life.</p>
 </p>
 
 
