@@ -1,6 +1,6 @@
 <center><h2>Classification of Depression on Social Media Using Text Mining</h2></center>
 
-<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">Reference</a></h4>
+<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">References</a> | <a href="acknowledgement">Acknowledgement</a></h4>
 
 <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38191990_10212430553984519_5107473515246780416_n.png?_nc_cat=0&oh=fa3b02a992087dde97ce99eee257f0c3&oe=5BD116F4" />
 
@@ -55,11 +55,16 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 
 
-
-
-<h2 id="reference">Reference  -  참고</h2>
+<h2 id="reference">References  -  참고</h2>
 
 <ul>
 	<li>https://www.researchgate.net/publication/318136574_Extracting_Depression_Symptoms_from_Social_Networks_and_Web_Blogs_via_Text_Mining</li>
 	<li>https://vgpena.github.io/classifying-tweets-with-keras-and-tensorflow/</li>
 </ul>
+
+
+<h2 id="reference">Acknowledgement  -  승인</h2>
+
+<p>
+	This work is not possible without the overwhelming support from Jeju National University, Jeju Development Center and other selfless sponsors. I would like to specifically give a big thanks to Prof. Yungcheol Byun for being the best host ever and my mentor Dr. Bobby Gerardo for the help and guidance.
+</p>
