@@ -1,6 +1,6 @@
 <center><h2>Classification of Depression on Social Media Using Text Mining</h2></center>
 
-<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">References</a> | <a href="acknowledgement">Acknowledgement</a></h4>
+<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">References</a> | <a href="#acknowledgement">Acknowledgement</a></h4>
 
 <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38191990_10212430553984519_5107473515246780416_n.png?_nc_cat=0&oh=fa3b02a992087dde97ce99eee257f0c3&oe=5BD116F4" />
 
