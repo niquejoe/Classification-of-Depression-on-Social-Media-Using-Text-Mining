@@ -12,11 +12,11 @@
 	<p><strong>Country:</strong></h4> Philippines</p>
 	<p><strong>Educational Background:</strong>
 		<p>
-			<p>Undergraduate:</strong> Bachelor of Science in Information System</p>
-			<p>Graduate:</strong> Masters in Information Technology</p>
-			<p>School:</strong> West Visayas State University</p>
+			<p><u>Undergraduate:</u></strong> Bachelor of Science in Information System</p>
+			<p><u>Graduate:</u></strong> Masters in Information Technology</p>
+			<p><u>School:</u></strong> West Visayas State University</p>
 		</p>
-	/p>
+	</p>
 </p>
 
 
