@@ -6,19 +6,19 @@
 <h2 id="about">About Me  -  나에 대해서 </h2>
 
 <img src="https://lh3.googleusercontent.com/_WfiyUWgmJQ3Gn1KPb7IeBENpT6hapDD6eViS0XX3K5Xitx6koiTvPI4wzaKPHSJSoyt4XyA0dWcQhi-cXtx0EcjvQpiwAPjBkJ4rj9Sbx9vdGuriAdzdcxVIoCQiWbPouzZ6d0CBDnhDB0F_ypvVd-uF3tr162BTpCVd-016Nqnz7SkZZ308SJd6EeOTaLZyT4ZmH1EKELmck-3k5AIvS8H-UwavkRVMtKYrScpYaVL4mC42CmtRE3Lua_jFxPAAt5vh6SP1bfxJn43o4Kt5PDcpiGdbzCgX_AbX42Ps0_KFHTzCSbMn6zM0fQB9V4aP_qvL5ZDCeOyWO4YO4P__42lZKBZpm17Yo1qByC-ZtEalgRAtSlIdGXDbdtbdQ4VsX6qIc2r7o0G1hu4w9f518mvNrT_QxVzW2sPUvmDlYP-RRTIsdyateJ7_580cKFGBbbpclj4u6n7XxyNfA1tqDxlZTWODWDEA4agK7bNf4-iomdXjjKIJBQ4XBdbEBls4PWfdCHgZ6q2-M_euppM3-2D0cmZ4MTI4oTR5c31XalMMlxWdQ4GRsa24VeZzIEb1TuCnDgLrzwSOd-KPz5BgCYMKjX4Soemh4nSyRq_Zz4pSY577KPFQoCa4rq9FhKCC8KXAL6zhSg2bai-v90qoqgVMsjYIMs7=w876-h1312-no" width="200" align="left" style="border: 2px solid #000"/>
+
 <p>
-<ul>
-	<li>Name: Nikie Jo Elauria Deocampo</li>
-	<li>Country:</h4> Philippines</li>
-	<li>Educational Background:
-		<ul>
-			<li>Undergraduate: Bachelor of Science in Information System</li>
-			<li>Graduate: Masters in Information Technology</li>
-			<li>School: West Visayas State University</li>
-		</ul>
-	</li>
-</ul>
+	<p><strong>Name:</strong> Nikie Jo Elauria Deocampo</p>
+	<p><strong>Country:</strong></h4> Philippines</p>
+	<p><strong>Educational Background:</strong>
+		<p>
+			<p>Undergraduate:</strong> Bachelor of Science in Information System</p>
+			<p>Graduate:</strong> Masters in Information Technology</p>
+			<p>School:</strong> West Visayas State University</p>
+		</p>
+	/p>
 </p>
+
 
 <h2 id="introduction">Introduction</h2>
 
