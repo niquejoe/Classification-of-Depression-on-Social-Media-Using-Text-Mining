@@ -63,7 +63,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 </ul>
 
 
-<h2 id="reference">Acknowledgement  -  승인</h2>
+<h2 id="acknowledgement">Acknowledgement  -  승인</h2>
 
 <p>
 	This work is not possible without the overwhelming support from Jeju National University, Jeju Development Center and other selfless sponsors. I would like to specifically give a big thanks to Prof. Yungcheol Byun for being the best host ever and my mentor Dr. Bobby Gerardo for the help and guidance.
