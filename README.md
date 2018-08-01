@@ -32,8 +32,11 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <h3>Requirements:</h3>
 <p>
-	<p><h5>Python 3.6.1</h5></p>
-	<p><h5>Twitter developer account</h5></p>
+	<ul>
+		<li>Python 3.6.1 or Higher</li>
+		<li>Twitter developer account</li>
+		
+	</ul>
 </p>
 
 
