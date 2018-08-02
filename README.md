@@ -57,7 +57,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<li>But wait, There's more. You will also have the ability to type in a sample tweet, The tweet will go through the highest AUC in the list of classifier to predict the sentiment of the tweet you wrote.</li>
 </ol>
 
-<h2>Future Plan - 향후 계획</h2>
+<h2>Future Plans - 향후 계획</h2>
 
 <ul>
 	<li>Use Contextual Semantic Search</li>
