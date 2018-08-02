@@ -47,13 +47,9 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <strong>Follow steps below:</strong>
 <ol>
-	<li>Create a twitter developers account (<a href="https://developer.twitter.com/" target="_new">LINK</a>), From that account your would need 4 things (consumer_key, consumer_secret, access_token and your access_secret)
+	<li>Create a twitter developers account (<a href="https://developer.twitter.com/" target="_new"> Register Here</a>), From that account your would need 4 things (consumer_key, consumer_secret, access_token and your access_secret)
 	</li>
-	<code>#Variables that contains the user credentials to access Twitter API<br>
-			consumer_key = ''<br>
-			consumer_secret = ''<br>
-			access_token = ''<br>
-			access_secret = ''<br>
+	<code>consumer_key = '', consumer_secret = '', access_token = '', access_secret = ''
 	</code>
 	<li>Using the file "Download_twitter_Api.py" insert the credentials and you can download current tweets using keywords such us depression, anxiety or sadness. When data sets are ready you may proceed on the preprocessing stage. </li>
 	<li>Run "preprocessor.py", This stage will go through your data sets and the given dictionary. The dictionary contain words with their corresponding polarity, which is essential to calcualting the sentiment of each tweet, each word will be seperated, tokenized and given its polarity. Every tweet will consist of the summation of all polarity of each word and devided by number of words in that tweet.</li>
