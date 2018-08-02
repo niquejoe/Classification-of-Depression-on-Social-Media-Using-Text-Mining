@@ -43,6 +43,8 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <p>The aim of the project is to predict early signs of depression through <strong>Social Media</strong> text mining. Below are the steps to run the python codes using the data sets uploaded in the repositories or you can download your own.</p>
 
+<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38171292_2041403129205207_9114974063100428288_n.png?_nc_cat=0&oh=c992aa6f98d9d2cf7d98e5537c8d70c6&oe=5BC92096"/>
+
 <strong>Follow steps below:</strong>
 <ol>
 	<li>Create a twitter developers account (<a href="https://developer.twitter.com/" target="_new">LINK</a>), From that account your would need 4 things (consumer_key, consumer_secret, access_token and your access_secret)</li>
@@ -61,6 +63,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<li>https://www.researchgate.net/publication/318136574_Extracting_Depression_Symptoms_from_Social_Networks_and_Web_Blogs_via_Text_Mining</li>
 	<li>https://vgpena.github.io/classifying-tweets-with-keras-and-tensorflow/</li>
 	<li>https://github.com/AshwanthRamji/Depression-Sentiment-Analysis-with-Twitter-Data</li>
+	<li>https://arxiv.org/pdf/1607.07384.pdf</li>
 </ul>
 
 
