@@ -47,10 +47,9 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <strong>Follow steps below:</strong>
 <ol>
-	<li>Create a twitter developers account (<a href="https://developer.twitter.com/" target="_new"> Register Here</a>), From that account your would need 4 things (consumer_key, consumer_secret, access_token and your access_secret)
+	<li>Create a twitter developers account (<a href="https://developer.twitter.com/" target="_new"> Register Here</a>), From that account your would need 4 things.
 	</li>
-	<code>consumer_key = '', consumer_secret = '', access_token = '', access_secret = ''
-	</code>
+	<code>consumer_key = '', consumer_secret = '', access_token = '', access_secret = ''</code>
 	<li>Using the file "Download_twitter_Api.py" insert the credentials and you can download current tweets using keywords such us depression, anxiety or sadness. When data sets are ready you may proceed on the preprocessing stage. </li>
 	<li>Run "preprocessor.py", This stage will go through your data sets and the given dictionary. The dictionary contain words with their corresponding polarity, which is essential to calcualting the sentiment of each tweet, each word will be seperated, tokenized and given its polarity. Every tweet will consist of the summation of all polarity of each word and devided by number of words in that tweet.</li>
 	<li>Once preprocess is done. You can find the file in the directory "processed_data/output.xlsx". Opening it you will find that the ID (tweet) and Sentiment of each tweet is seperated into 2 columns. With this output you now have a twitter data set and its corresponding sentiment filtered by depress keywords. (Positive, Neutral and Negative).</li>
@@ -58,7 +57,12 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<li>But wait, There's more. You will also have the ability to type in a sample tweet, The tweet will go through the highest AUC in the list of classifier to predict the sentiment of the tweet you wrote.</li>
 </ol>
 
+<h2>Future Plan - 향후 계획</h2>
 
+<ul>
+	<li>Use Contextual Semantic Search</li>
+	<li>Improve accuracy of prediction</li>
+</ul>
 
 <h2 id="reference">References  -  참고</h2>
 
