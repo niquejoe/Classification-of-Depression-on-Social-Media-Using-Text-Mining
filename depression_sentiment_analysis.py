@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn import metrics
-from sklearn.metrics import roc_auc_score
+#from sklearn.metrics import roc_auc_score
 
 tweets_data = []
 x = []
