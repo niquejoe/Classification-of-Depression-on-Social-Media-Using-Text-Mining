@@ -212,12 +212,3 @@ print("Input your tweet : ")
 inputtweet = input()
 
 datreeINPUT(inputtweet)
-
-
-
-#test_try= vectorizer.transform(["Can we all stop treating anxiety like it's a choice and something cool to have thank you"])
-#test_try2= vectorizer.transform(["I want to die depression sucks"])
-#predict2 = nb.predict(test_try)
-#predict3 = nb.predict(test_try2)
-
-

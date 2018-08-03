@@ -12,8 +12,6 @@ import string
 import re
 import time
 import pandas as pd
-from textblob import TextBlob
-from textblob import Word
 
 
 tweets_data = []
