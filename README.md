@@ -63,7 +63,13 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<li>But wait, There's more. You will also have the ability to type in a sample tweet, The tweet will go through the highest AUC in the list of classifier to predict the sentiment of the tweet you wrote.</li>
 </ol>
 
-<h2>Future Plans - 향후 계획</h2>
+<h2>Results  -  결과들</h2>
+
+Below are the Matrix for the 5 classifier with Datatree having the highest score.
+
+<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38239101_2042661029079417_4458255600337289216_n.png?_nc_cat=0&oh=48582dfc061ad517fc332e54a7f234e3&oe=5BD45BF3">
+
+<h2>Future Plans  -  향후 계획</h2>
 
 <ul>
 	<li>Use Contextual Semantic Search</li>
