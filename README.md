@@ -71,11 +71,36 @@ Below are the Matrix for the 5 classifier with Datatree having the highest score
 
 <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38239101_2042661029079417_4458255600337289216_n.png?_nc_cat=0&oh=48582dfc061ad517fc332e54a7f234e3&oe=5BD45BF3">
 
+
+Using the same data set to test my accuracy, I trained and tested about 10,000 Tweets:
+<p>AUC is an abbrevation for area under the curve. It is used in classification analysis in order to determine which of the used models predicts the classes best.</p>
+
+<h2>Accuracy: </h2>
+<ul>
+	<li><strong>Naive Bayes  Accuracy: </strong>93.79406648429645 %</li>
+	<li><strong>Decision Tree: </strong>98.55668748040587 %</li>
+	<li><strong>Support Vector Machine: </strong>50.0 %</li>
+	<li><strong>Kneighbors: </strong>81.464022923447 %</li>
+	<li><strong>Random Forest: </strong>49.1038137743686 %</li>
+</ul>
+<p>&nsbp;</p>
+<h2>Completion Time: </h2>
+<ul>
+	<li><strong>Naive Bayes  Accuracy: </strong>0.59779 Seconds</li>
+	<li><strong>Decision Tree: </strong>3.40457 Seconds</li>
+	<li><strong>Support Vector Machine: </strong>29.83311 Seconds</li>
+	<li><strong>Kneighbors: </strong>7.99048 Seconds</li>
+	<li><strong>Random Forest: </strong>0.60994 Seconds</li>
+</ul>
+
+
 <h2>Future Plans  -  향후 계획</h2>
 
 <ul>
-	<li>Use Contextual Semantic Search</li>
-	<li>Improve accuracy of prediction</li>
+	<li>Use Contextual Semantic segmentation</li>
+	<li>Use Stopwords to increase accuracy of model</li>
+	<li>Eliminating features with extremely low frequency</li>
+	<li>Use Complex Features: n-grams and part of speech tags</li>
 </ul>
 
 <h2 id="reference">References  -  참고</h2>
