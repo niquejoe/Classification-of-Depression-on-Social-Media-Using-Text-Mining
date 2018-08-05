@@ -43,7 +43,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <p>The aim of the project is to predict early signs of depression through <strong>Social Media</strong> text mining. Below are the steps to run the python codes using the data sets uploaded in the repositories or you can download your own.</p>
 
-<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38171292_2041403129205207_9114974063100428288_n.png?_nc_cat=0&oh=c992aa6f98d9d2cf7d98e5537c8d70c6&oe=5BC92096"/>
+<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38433260_1904652226265328_3768396222381948928_n.png?_nc_cat=0&oh=fab637a57194ff91928da7b83e3eaff9&oe=5C0F746B"/>
 
 <strong>Follow steps below:</strong>
 <ol>
