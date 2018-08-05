@@ -67,7 +67,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <h2>Results  -  결과들</h2>
 
-Below are the Matrix for the 5 classifier with Datatree having the highest score.
+Below are the Matrix for the 5 classifier with Decision tree having the highest score.
 
 <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38239101_2042661029079417_4458255600337289216_n.png?_nc_cat=0&oh=48582dfc061ad517fc332e54a7f234e3&oe=5BD45BF3">
 
