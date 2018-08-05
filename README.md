@@ -83,7 +83,7 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 	<li><strong>Kneighbors: </strong>81.464022923447 %</li>
 	<li><strong>Random Forest: </strong>49.1038137743686 %</li>
 </ul>
-<p>&nsbp;</p>
+
 <h4>Completion Time: </h4>
 <ul>
 	<li><strong>Naive Bayes  Accuracy: </strong>0.59779 Seconds</li>
