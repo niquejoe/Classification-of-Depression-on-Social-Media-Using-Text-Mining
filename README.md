@@ -75,7 +75,7 @@ Below are the Matrix for the 5 classifier with Datatree having the highest score
 Using the same data set to test my accuracy, I trained and tested about 10,000 Tweets:
 <p>AUC is an abbrevation for area under the curve. It is used in classification analysis in order to determine which of the used models predicts the classes best.</p>
 
-<h3>Accuracy: </h3>
+<h4>Accuracy: </h4>
 <ul>
 	<li><strong>Naive Bayes  Accuracy: </strong>93.79406648429645 %</li>
 	<li><strong>Decision Tree: </strong>98.55668748040587 %</li>
@@ -84,7 +84,7 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 	<li><strong>Random Forest: </strong>49.1038137743686 %</li>
 </ul>
 <p>&nsbp;</p>
-<h3>Completion Time: </h3>
+<h4>Completion Time: </h4>
 <ul>
 	<li><strong>Naive Bayes  Accuracy: </strong>0.59779 Seconds</li>
 	<li><strong>Decision Tree: </strong>3.40457 Seconds</li>
@@ -94,7 +94,7 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 </ul>
 
 
-<h3>Future Plans  -  향후 계획</h3>
+<h2>Future Plans  -  향후 계획</h2>
 
 <ul>
 	<li>Use Contextual Semantic segmentation</li>
