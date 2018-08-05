@@ -116,6 +116,6 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 <h2 id="acknowledgement">Acknowledgement  -  승인</h2>
 
 <p>
-	This work is not possible without the overwhelming support from Jeju National University, Jeju Development Center and other selfless sponsors. I would like to specifically give a big thanks to Prof. Yungcheol Byun for being the best host ever and my mentor Dr. Bobby Gerardo for the help and guidance.
+	This work is not possible without the overwhelming support from Jeju National University, Jeju Development Center and other selfless sponsors. I would like to specifically give a big thanks to <strong>Prof. Yungcheol Byun</strong> for being the best host ever and my mentor <strong>Dr. Bobby Gerardo</strong> for the help and guidance.
 </p>
 <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38448262_444823742664978_8306719702562897920_n.jpg?_nc_cat=0&oh=99c9efd63968d3e4449b922024cc13a5&oe=5C1439D0" />
