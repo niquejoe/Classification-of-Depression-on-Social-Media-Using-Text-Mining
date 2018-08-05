@@ -13,7 +13,7 @@ access_secret = 'Oc9ZKbHSL0reJhZYcU0Vk9UERbVvsTwerIfDUTwiRNGYf'
 class StdOutListener(StreamListener):
 
     def on_data(self, data):
-        with open('twitter_raw.txt','a') as tf:
+        with open('data/tweetdata.txt','a') as tf:
             tf.write(data)
         print(data)
         return True
