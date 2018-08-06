@@ -36,8 +36,8 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<ul>
 		<li>Python 3.6.1 or Higher</li>
 		<li>Twitter developer account</li>
-		<li>A bunch of modules</li>
-		<li>and a lot of patience</li>
+		<li>A bunch of modules (Keras, TF, Numpy, sklearns, pandas and itertools)</li>
+		<li>A lot of patience and a love for machine learning.</li>
 	</ul>
 </p>
 
@@ -64,6 +64,19 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<li>But wait, There's more. You will also have the ability to type in a sample tweet, The tweet will go through the highest AUC in the list of classifier to predict the sentiment of the tweet you wrote.</li>
 	<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38411958_199916164212563_8656403016246624256_n.png?_nc_cat=0&oh=ad5e03122a55e79330317de5ec714504&oe=5BC76499" />
 </ol>
+
+<p>
+	What the result could mean? <strong>Postive</strong>, This mean that person is unlikely to have depression or anxiety. <strong><strong>Neutral</strong>, This is the middle level wherein the user may or may not have depression but may also be more prone to being depress. At that stage the user may display some depression like symptoms. lasty, <strong>Negative</strong> is the lowest level where depression and anxiety symptoms are being detected through the users tweets. The more negative words the user uses mean the more negative emotion the tweet has.
+</p>
+
+
+
+<h4>Video Tutorials</h4>
+<ul>
+	<li><strong>How to download from Twitter: </strong><a href="http://recordit.co/lptv75TqDV">Video Link</a></li>
+	<li><strong>How to preprocess data: </strong><a href="http://recordit.co/Y4YSvAokAN">Video Link</a></li>
+	<li><strong>How to train and test: </strong><a href="http://recordit.co/eh42r6uAI0">Video Link</a></li>
+</ul>
 
 <h2>Results  -  결과들</h2>
 
@@ -95,6 +108,7 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 
 
 <h2>Future Plans  -  향후 계획</h2>
+<p>This study is not yet perfect and im still aiming to improve it.</p>
 
 <ul>
 	<li>Use Contextual Semantic segmentation</li>
