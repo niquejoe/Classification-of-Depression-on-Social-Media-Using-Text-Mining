@@ -1,6 +1,6 @@
 <center><h2>Classification of Depression on Social Media Using Text Mining</h2></center>
 
-<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#reference">References</a> | <a href="#acknowledgement">Acknowledgement</a></h4>
+<h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#vd">Video Demo</a> | <a href="#reference">References</a> | <a href="#acknowledgement">Acknowledgement</a></h4>
 
 <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38392116_10212436436211571_862959595209883648_n.jpg?_nc_cat=0&oh=317ab96fdc454294638faa3407b73b30&oe=5C0662B5" />
 
@@ -66,12 +66,12 @@ community, it changes human interaction. For this project, I will be using Pytho
 </ol>
 
 <p>
-	What the result could mean? <strong>Postive</strong>, This mean that person is unlikely to have depression or anxiety. <strong><strong>Neutral</strong>, This is the middle level wherein the user may or may not have depression but may also be more prone to being depress. At that stage the user may display some depression like symptoms. lasty, <strong>Negative</strong> is the lowest level where depression and anxiety symptoms are being detected through the users tweets. The more negative words the user uses mean the more negative emotion the tweet has.
+	What the result could mean? <strong>Postive</strong>, This mean that person is unlikely to have depression or anxiety. <strong>Neutral</strong>, This is the middle level wherein the user may or may not have depression but may also be more prone to being depress. At that stage the user may display some depression like symptoms. lasty, <strong>Negative</strong> is the lowest level where depression and anxiety symptoms are being detected through the users tweets. The more negative words the user uses mean the more negative emotion the tweet has.
 </p>
 
 
 
-<h4>Video Tutorials</h4>
+<h2 id="vd">Video Tutorials</h2>
 <ul>
 	<li><strong>How to download from Twitter: </strong><a href="http://recordit.co/lptv75TqDV">Video Link</a></li>
 	<li><strong>How to preprocess data: </strong><a href="http://recordit.co/Y4YSvAokAN">Video Link</a></li>
