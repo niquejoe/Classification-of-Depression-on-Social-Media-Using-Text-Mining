@@ -60,8 +60,6 @@ community, it changes human interaction. For this project, I will be using Pytho
 	<li>Now for training and Predicting. Make sure all files are located in proper folders, Run "depression_sentiment_analysis.py". The code will run through the output.xlsx file and at the same time recover the tweet corresponding to the id of each sentiment. using this we use the original data and feed them to our classifiers. When everything is done you should have all the AUC of each classifier listed in the console.</li>
 	<li>But wait, There's more. You will also have the ability to type in a sample tweet, The tweet will go through the highest AUC in the list of classifier to predict the sentiment of the tweet you wrote.</li>
 	<img src="https://i.ibb.co/72F8Vjq/ee.png" />
-	<br>
-	<img src="https://i.ibb.co/72F8Vjq/ee.png" />
 </ol>
 
 <p>
