@@ -43,7 +43,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 <p>The aim of the project is to predict early signs of depression through <strong>Social Media</strong> text mining. Below are the steps to run the python codes using the data sets uploaded in the repositories or you can download your own.</p>
 
-<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38433260_1904652226265328_3768396222381948928_n.png?_nc_cat=0&oh=fab637a57194ff91928da7b83e3eaff9&oe=5C0F746B"/>
+<img src="https://i.ibb.co/5vHttnS/bb.png"/>
 
 <strong>Follow steps below:</strong>
 <ol>
@@ -51,18 +51,17 @@ community, it changes human interaction. For this project, I will be using Pytho
 	</li>
 	<code>consumer_key = '', consumer_secret = '', access_token = '', access_secret = ''</code>
 	<li>Using the file "Download_twitter_Api.py" insert the credentials and you can download current tweets using keywords such us depression, anxiety or sadness. When data sets are ready you may proceed on the preprocessing stage. 
-	<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38208422_2041896319155888_6066001815034396672_n.png?_nc_cat=0&oh=4594f44766388c7427ed2f510123d1ce&oe=5C076576" />
 	<br>
-    <img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38248780_2041896312489222_3338541232379920384_n.png?_nc_cat=0&oh=371938eac5f49da3462a11cef8266729&oe=5C0E7DB5" />
+    <img src="https://i.ibb.co/M19tdrd/cc.png" />
 	</li>
 	<li>Run "preprocessor.py", This stage will go through your data sets and the given dictionary. The dictionary contain words with their corresponding polarity, which is essential to calcualting the sentiment of each tweet, each word will be seperated, tokenized and given its polarity. Every tweet will consist of the summation of all polarity of each word and devided by number of words in that tweet.</li>
-	<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38514675_666382907080395_8610249658461061120_n.png?_nc_cat=0&oh=0abc7ec89d58428947f9617e34d0b29e&oe=5C0A652C" />
 	<li>Once preprocess is done. You can find the file in the directory "processed_data/output.xlsx". Opening it you will find that the ID (tweet) and Sentiment of each tweet is seperated into 2 columns. With this output you now have a twitter data set and its corresponding sentiment filtered by depress keywords. (Positive, Neutral and Negative).</li>
-	<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38498601_269194930535056_2724141857129889792_n.png?_nc_cat=0&oh=56f1f866ae2e442f7389519b2583c63f&oe=5C0EE3F9" />
+	<img src="https://i.ibb.co/NsvFqxm/dd.png" />
 	<li>Now for training and Predicting. Make sure all files are located in proper folders, Run "depression_sentiment_analysis.py". The code will run through the output.xlsx file and at the same time recover the tweet corresponding to the id of each sentiment. using this we use the original data and feed them to our classifiers. When everything is done you should have all the AUC of each classifier listed in the console.</li>
-	<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38504063_520996491669634_4412583098500251648_n.png?_nc_cat=0&oh=13b030ea9634aa4c32daf0120eb55d4c&oe=5BC7DE0B" />
 	<li>But wait, There's more. You will also have the ability to type in a sample tweet, The tweet will go through the highest AUC in the list of classifier to predict the sentiment of the tweet you wrote.</li>
-	<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38411958_199916164212563_8656403016246624256_n.png?_nc_cat=0&oh=ad5e03122a55e79330317de5ec714504&oe=5BC76499" />
+	<img src="https://i.ibb.co/72F8Vjq/ee.png" />
+	<br>
+	<img src="https://i.ibb.co/72F8Vjq/ee.png" />
 </ol>
 
 <p>
@@ -82,7 +81,7 @@ community, it changes human interaction. For this project, I will be using Pytho
 
 Below are the Matrix for the 5 classifier with Decision tree having the highest score.
 
-<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38239101_2042661029079417_4458255600337289216_n.png?_nc_cat=0&oh=48582dfc061ad517fc332e54a7f234e3&oe=5BD45BF3">
+<img src="https://i.ibb.co/4WTHVGC/ff.png">
 
 
 Using the same data set to test my accuracy, I trained and tested about 10,000 Tweets:
@@ -132,4 +131,4 @@ Using the same data set to test my accuracy, I trained and tested about 10,000 T
 <p>
 	This work is not possible without the overwhelming support from <strong>Jeju National University</strong>, <strong>Jeju Development Center</strong> and other selfless sponsors. I would like to specifically give a big thanks to <strong>Prof. Yungcheol Byun</strong> for being the best host ever and my mentor <strong>Dr. Bobby Gerardo</strong> for the help and guidance.
 </p>
-<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38448262_444823742664978_8306719702562897920_n.jpg?_nc_cat=0&oh=99c9efd63968d3e4449b922024cc13a5&oe=5C1439D0" />
+<img src="https://i.ibb.co/c2Gk625/tt.jpg" />
