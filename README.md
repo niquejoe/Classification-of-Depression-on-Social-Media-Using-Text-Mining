@@ -2,7 +2,7 @@
 
 <h4><a href="#about">Author</a> | <a href="#introduction">Introduction</a> | <a href="#project">The Project</a> | <a href="#vd">Video Demo</a> | <a href="#reference">References</a> | <a href="#acknowledgement">Acknowledgement</a></h4>
 
-<img src="https://scontent.fcju1-1.fna.fbcdn.net/v/t1.15752-9/38392116_10212436436211571_862959595209883648_n.jpg?_nc_cat=0&oh=317ab96fdc454294638faa3407b73b30&oe=5C0662B5" />
+<img src="https://i.ibb.co/QH8Y1Wq/aa.jpg" />
 
 <h2 id="about">Author  -  저자 </h2>
 
