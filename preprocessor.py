@@ -91,6 +91,7 @@ def addpolarity():
             token = word_tokenize(tweet_token)
             sumnum = 0
             sum_word = 0
+            sum_more = 0
             for t in token:
      
                 for d in y:
